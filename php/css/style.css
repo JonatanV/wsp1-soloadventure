@@ -7,22 +7,11 @@ main {
     width: 60%;
     margin: 0 auto;
 }
-
-p {
-    font-size: 1.4em;
-    text-align: center;
-    color: red;
-}
-
 ul {
     list-style: none;
     display: flex;
     justify-content: space-evenly;
     
-}
-li{
-    margin-left: 10%;
-    margin-right: 10%;
 }
 a{
     text-decoration: none;
@@ -34,3 +23,11 @@ a:hover{
     color: silver;
     text-decoration: none;
 }
+p{
+    color: red;
+
+    font-size: 1.4em;
+    text-align: center;
+}
+/*#005c69
+*/
