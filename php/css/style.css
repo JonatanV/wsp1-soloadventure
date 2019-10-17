@@ -1,5 +1,5 @@
 body {
-    background-color: bisque;
+    background-color: rgb(0, 0, 0);
     font-size: 16px;
 }
 
@@ -10,10 +10,27 @@ main {
 
 p {
     font-size: 1.4em;
+    text-align: center;
+    color: red;
 }
 
 ul {
     list-style: none;
     display: flex;
     justify-content: space-evenly;
+    
+}
+li{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+a{
+    text-decoration: none;
+    color: gold;
+    background-color: darkslateblue;
+
+}
+a:hover{
+    color: silver;
+    text-decoration: none;
 }
