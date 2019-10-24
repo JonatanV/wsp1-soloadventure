@@ -6,9 +6,7 @@ body {
 main {
     width: 60%;
     margin: 0 auto;
-    margin-top: 10px;
-    border: 8px ridge darkturquoise ;
-    
+    margin-top: 10px;       
 }
 ul {
     list-style: none;
